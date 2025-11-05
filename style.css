@@ -6,3 +6,9 @@ body {
 h1 {
   color: blue;
 }
+
+/* Estilos para Modo Oscuro */
+body {
+  background-color: #333; /* Fondo oscuro */
+  color: #f0f0f0;         /* Texto claro */
+}
